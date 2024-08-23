@@ -1,0 +1,19 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    text-align: center; /*centralizar tudo*/
+}
+
+.container a {
+    background-color: #f5f5dc;
+    color: #7c2020;
+    text-decoration: none;   /* Cor de fundo, cor letra, sem traço e distância do Botão */
+    padding: 10px 20px;  /* top, right, botton, left */
+    border-radius: 30px; /*borda do botao*/
+}
+
+.container a:hover {
+    background-color: #c4c4a8; /*s*/
+}
