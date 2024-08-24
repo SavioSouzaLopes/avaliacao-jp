@@ -154,3 +154,182 @@ Ex: SENAC-SALA-206-PCXPTO
 - Testar conexão
 ssh -T git@github.com
 yes
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio 🐢</title>
+    <link rel="stylesheet" href="./styles/index.css">
+</head>
+<body>
+    <div class="container">
+         <h1>Escolha uma Opção</h1>
+         <a href="./html-basico.css">Inicio</a>
+    </div>
+</body>
+</html>
+
+
+
+!DOCTYPE html> 
+
+ 
+
+<html lang="pt-br"> 
+
+<head> 
+
+    <meta charset="UTF-8"> 
+
+    <meta name="author" content="Sávio Lopes"> 
+
+    <meta name="keywords" content="portfolio, curriculo, Sávio"> 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>Portfolio</title> 
+
+    <link rel="stylesheet" href="styles/1-html-básico.css"> 
+
+</head> 
+
+<body> 
+
+    <header> 
+
+  <h1>Página HTML</h1> 
+
+  <a class= "btn" href="index.html">Voltar</a> 
+
+</header> 
+
+ 
+
+     
+
+  <main> 
+
+ 
+
+  </main class="container"> 
+
+  <section> 
+
+    <h2>Seção de listas</h2> 
+
+    </section> 
+
+    <div> 
+
+        <h3> 
+
+            lista não ordenada  
+
+            <ul> 
+
+                <li> 
+
+                    item 1</li> 
+
+                <li>item 2</li><li>item 3</li> 
+
+            </ul> 
+
+        </h3> 
+
+    </div> 
+
+    <div> 
+
+        <h3>lista ordenada </h3> 
+
+        <ol> 
+
+            <li> 
+
+                item 1</li> 
+
+            <li>item 2</li><li>item 3</li> 
+
+        </ol> 
+
+ 
+
+    </div> 
+
+ 
+
+    <section> 
+
+        <h2>Seção de Imagem e vídeo</h2> 
+
+        </section> 
+
+        <img src="./giphy.gif" alt=""> 
+
+        <div></div> 
+
+        <idframe><iframe width="560" height="315" src="https://youtu.be/bpZvg_FjL3Q?si=AHUT-EJnF2SNofNE" title="Vídeo Youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></idframe> 
+
+        <section class ="last"> 
+
+            <h2>Seção de Formulário</h2> 
+
+            </section> 
+
+            <form> 
+
+                <label for="nome"> Nome:</label> 
+
+                <input type="text" id="nome" name="nome" placeholder="Seu nome" required> 
+
+                <div> 
+
+                
+
+ 
+
+                <label for="email">Email: </label> 
+
+                <label><input type="email" name="email" id="email" placeholder="bananinha@gmail.com" required> 
+
+<div></div> 
+
+                    <label for="senha">Senha: </label> 
+
+                <label><input type="password" name="senha" id="senha" placeholder="12345678"required> 
+
+                    <div></div> 
+
+                <button type="submit">Salvar</button> 
+
+                <button type="reset">Limpar</button> 
+
+ 
+
+            </form> 
+
+   
+
+   
+
+            <footer> 
+
+<p> 
+
+    &copy; 2024 - direitos reservados a Sávio Lopes 
+
+</p> 
+
+ 
+
+ 
+
+  </footer> 
+
+</body> 
+
+</html> 
