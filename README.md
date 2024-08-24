@@ -1,7 +1,7 @@
 # avaliacao-jp
 avaliacao-jp Sávio Souza Lopes
 
-***Códigos que Possuíamos:***
+***Códigos que Possuímos:***
 
 ------------------------------------------------------------------
 
